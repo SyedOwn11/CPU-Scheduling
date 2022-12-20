@@ -1,0 +1,27 @@
+﻿  ConsoleApplication1.cpp
+D:\UNIVERSITY\Semester 4\OS\Final Project\ConsoleApplication1\ConsoleApplication1\PriorityScheduling.h(36,35): warning C4018: '<': signed/unsigned mismatch
+D:\UNIVERSITY\Semester 4\OS\Final Project\ConsoleApplication1\ConsoleApplication1\PriorityScheduling.h(53,27): warning C4018: '<': signed/unsigned mismatch
+D:\UNIVERSITY\Semester 4\OS\Final Project\ConsoleApplication1\ConsoleApplication1\PriorityScheduling.h(63,27): warning C4018: '<': signed/unsigned mismatch
+D:\UNIVERSITY\Semester 4\OS\Final Project\ConsoleApplication1\ConsoleApplication1\PriorityScheduling.h(80,27): warning C4018: '<': signed/unsigned mismatch
+D:\UNIVERSITY\Semester 4\OS\Final Project\ConsoleApplication1\ConsoleApplication1\PriorityScheduling.h(102,27): warning C4018: '<': signed/unsigned mismatch
+D:\UNIVERSITY\Semester 4\OS\Final Project\ConsoleApplication1\ConsoleApplication1\RoundRobbin.h(37,27): warning C4018: '<': signed/unsigned mismatch
+D:\UNIVERSITY\Semester 4\OS\Final Project\ConsoleApplication1\ConsoleApplication1\RoundRobbin.h(47,27): warning C4018: '<': signed/unsigned mismatch
+D:\UNIVERSITY\Semester 4\OS\Final Project\ConsoleApplication1\ConsoleApplication1\RoundRobbin.h(134,27): warning C4018: '<': signed/unsigned mismatch
+D:\UNIVERSITY\Semester 4\OS\Final Project\ConsoleApplication1\ConsoleApplication1\RoundRobbin.h(138,35): warning C4018: '<': signed/unsigned mismatch
+D:\UNIVERSITY\Semester 4\OS\Final Project\ConsoleApplication1\ConsoleApplication1\RoundRobbin.h(153,27): warning C4018: '<': signed/unsigned mismatch
+D:\UNIVERSITY\Semester 4\OS\Final Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(341,12): warning C4129: 'A': unrecognized character escape sequence
+D:\UNIVERSITY\Semester 4\OS\Final Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(346,36): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\UNIVERSITY\Semester 4\OS\Final Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(358,12): warning C4129: 'A': unrecognized character escape sequence
+D:\UNIVERSITY\Semester 4\OS\Final Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(363,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\UNIVERSITY\Semester 4\OS\Final Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(396,23): warning C4018: '<=': signed/unsigned mismatch
+D:\UNIVERSITY\Semester 4\OS\Final Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(403,23): warning C4018: '<=': signed/unsigned mismatch
+D:\UNIVERSITY\Semester 4\OS\Final Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(409,23): warning C4018: '<=': signed/unsigned mismatch
+D:\UNIVERSITY\Semester 4\OS\Final Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(444,23): warning C4018: '<=': signed/unsigned mismatch
+D:\UNIVERSITY\Semester 4\OS\Final Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(451,23): warning C4018: '<=': signed/unsigned mismatch
+D:\UNIVERSITY\Semester 4\OS\Final Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(457,23): warning C4018: '<=': signed/unsigned mismatch
+D:\UNIVERSITY\Semester 4\OS\Final Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(463,23): warning C4018: '<=': signed/unsigned mismatch
+D:\UNIVERSITY\Semester 4\OS\Final Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(98,8): warning C4101: 'x': unreferenced local variable
+D:\UNIVERSITY\Semester 4\OS\Final Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(89): message : while compiling class template member function 'void SyedOwnDynamicQueue<double>::WaitingTimeCalc(void)'
+D:\UNIVERSITY\Semester 4\OS\Final Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(214): message : see reference to function template instantiation 'void SyedOwnDynamicQueue<double>::WaitingTimeCalc(void)' being compiled
+D:\UNIVERSITY\Semester 4\OS\Final Project\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(314): message : see reference to class template instantiation 'SyedOwnDynamicQueue<double>' being compiled
+  ConsoleApplication1.vcxproj -> D:\UNIVERSITY\Semester 4\OS\Final Project\ConsoleApplication1\Debug\ConsoleApplication1.exe
